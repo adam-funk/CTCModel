@@ -1,2 +1,2 @@
-keras
-tensorflow
+tensorflow==2.12
+keras==2.12
