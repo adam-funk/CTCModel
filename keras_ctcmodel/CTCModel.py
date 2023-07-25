@@ -4,7 +4,6 @@ import numpy as np
 
 import os
 from tensorflow.keras import Input
-# https://github.com/cyprienruffino/CTCModel/issues/20
 from tensorflow.keras.engine.training import Model
 from tensorflow.keras.layers import Lambda
 from tensorflow.keras.models import model_from_json, Sequential
